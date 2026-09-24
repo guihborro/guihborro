@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehborro)
 ![Mackenzie](https://img.shields.io/badge/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-Mackenzie-B22222?style=for-the-badge)
-![Bradesco](https://img.shields.io/badge/Dados%20%26%20ML-Bradesco-CC092F?style=for-the-badge)
+![Bradesco](https://img.shields.io/badge/Dados-Bradesco-CC092F?style=for-the-badge)
 
 ---
 
