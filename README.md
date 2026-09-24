@@ -3,8 +3,8 @@
 > Construo produtos de dados de ponta a ponta: da coleta e limpeza dos dados ao modelo em produção, entregue como API ou aplicação que alguém realmente usa.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehborro)
-![Mackenzie](https://img.shields.io/badge/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-Mackenzie-B22222?style=for-the-badge)
-![Bradesco](https://img.shields.io/badge/Engenharia%20de%20Dados-Bradesco-CC092F?style=for-the-badge)
+[![Mackenzie](https://img.shields.io/badge/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-Mackenzie-B22222?style=for-the-badge)](https://www.linkedin.com/in/guilhermehborro)
+[![Bradesco](https://img.shields.io/badge/Engenharia%20de%20Dados-Bradesco-CC092F?style=for-the-badge)](https://www.linkedin.com/in/guilhermehborro)
 
 ---
 
