@@ -37,7 +37,7 @@ Identifica cada animal pela foto do focinho, como uma impressão digital, usando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### [FinIntegra & Matchmaker](https://github.com/guihborro/projeto_finintrega)
+### [Radar B2B](https://github.com/guihborro/Radar_B2B)
 
 Encontra e ranqueia empresas que se encaixam num perfil de cliente ideal e executa um pipeline supervisionado de prospecção B2B, a partir de dados públicos da Receita Federal e da PGFN.
 
